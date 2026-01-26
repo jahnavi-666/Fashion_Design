@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom */
+body { background: #f7fafc; }
+.card { background: white; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+.img-thumb { object-fit: cover; width: 100%; height: 180px; border-top-left-radius: 12px; border-top-right-radius: 12px; }
+.btn { @apply px-4 py-2 rounded-md bg-sky-600 text-white font-medium; }
