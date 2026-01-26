@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+torch
+timm
+ftfy
+regex
+transformers
+sentence-transformers
+Pillow
+faiss-cpu
+python-multipart
+aiofiles
+opencv-python
+scikit-learn
